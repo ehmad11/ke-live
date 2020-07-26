@@ -1,0 +1,33 @@
+{
+  "name": "ke-live",
+  "version": "1.0.0",
+  "description": "Bypass KE Live captcha",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehmad11/ke-live.git"
+  },
+  "keywords": [
+    "ke",
+    "ke",
+    "live",
+    "k",
+    "electric",
+    "kesc",
+    "karachi",
+    "electric"
+  ],
+  "author": "ehmad11",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ehmad11/ke-live/issues"
+  },
+  "homepage": "https://github.com/ehmad11/ke-live#readme"
+}
